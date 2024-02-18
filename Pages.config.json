@@ -1,0 +1,28 @@
+{
+    "Pages":[
+        {
+            "name_file":"test.php",
+            "url":"test",
+            "controller":"Public",
+            "name_func":"test"
+        },
+        {
+            "name_file":"test2.php",
+            "url":"test2/([a-zA-Z-_]+)/(DOOM)",
+            "controller":"Public",
+            "name_func":"test2"
+        },
+        {
+            "name_file":"test3.php",
+            "url":"test3/([a-zA-Z-_]+)",
+            "controller":"Private",
+            "name_func":"test3"
+        },
+        {
+            "name_file":"test3dadsa.php",
+            "url":"test4sadd",
+            "controller":"Private",
+            "name_func":"testdsd3"
+        }
+    ]
+}
